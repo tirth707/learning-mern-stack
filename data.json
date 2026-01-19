@@ -1,0 +1,141 @@
+{
+  "students": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+      "students": "tirth",
+      "teachers": "tirth"
+    },
+    {
+      "students": "tirth",
+      "teachers": "tirth"
+    },
+    {
+      "students": "tirth",
+      "teachers": "tirth"
+    },
+    {
+      "students": "tirth",
+      "teachers": "tirth"
+    },
+    {
+      "students": "tirth",
+      "teachers": "tirth"
+    },
+    null,
+    null,
+    null,
+    {
+      "students": "tirth",
+      "teachers": "tirth"
+    },
+    {
+      "students": "tirth",
+      "teachers": "tirth"
+    },
+    {
+      "students": "tirth",
+      "teachers": "tirth"
+    },
+    {
+      "students": "tirth",
+      "teachers": "tirth"
+    },
+    {
+      "students": "tirth",
+      "teachers": "tirth"
+    },
+    {
+      "students": "tirth",
+      "teachers": "tirth"
+    },
+    {
+      "students": "tirth",
+      "teachers": "tirth"
+    },
+    {
+      "students": "tirth",
+      "teachers": "tirth"
+    },
+    {
+      "students": "tirth",
+      "teachers": "tirth"
+    },
+    {
+      "students": "tirth",
+      "teachers": "tirth"
+    },
+    {
+      "students": "tirth",
+      "teachers": "tirth"
+    },
+    {
+      "students": "tirth",
+      "teachers": "tirth"
+    },
+    {
+      "students": "tirth",
+      "teachers": "tirth"
+    },
+    {
+      "students": "tirth",
+      "teachers": "tirth"
+    }
+  ],
+  "teachers": [
+    {
+      "students": "tirth",
+      "teachers": "tirth"
+    },
+    {
+      "teachers": "tirth"
+    },
+    {
+      "teachers": "tirth"
+    },
+    {
+      "students": "tirth",
+      "teachers": "tirth"
+    },
+    {
+      "students": "krish",
+      "teachers": "tirth"
+    },
+    {
+      "students": "krish",
+      "teachers": "tirth"
+    },
+    {
+      "students": "krish",
+      "teachers": "tirth"
+    },
+    {
+      "students": "nikesh",
+      "teachers": "tirth"
+    },
+    {
+      "students": "nikesh",
+      "teachers": "tirth"
+    },
+    {
+      "students": "nikesh",
+      "teachers": "tirth"
+    },
+    {
+      "students": "nikesh",
+      "teachers": "tirth"
+    },
+    {
+      "students": "nikesh",
+      "teachers": "tirth"
+    }
+  ]
+}
