@@ -1,5 +1,8 @@
+const cors = require('cors');
 const express = require('express');
 const app = express();
+
+app.use(cors()); 
 
 app.get('/stream-updates', (req, res) => {
     // 1. Mandatory Headers for SSE
@@ -25,4 +28,4 @@ app.get('/stream-updates', (req, res) => {
     });
 });
 
-app.listen(5000, () => console.log('SSE Server: http://localhost:5000/stream-updates'));
+app.listen(5001, () => console.log('SSE Server: http://localhost:5001/stream-updates'));
