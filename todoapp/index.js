@@ -1,27 +1,11 @@
 const express=require("express");
 const mongoose = require("mongoose");
-const TodoModel=require('./model/todomodel');
-
-
+const todosRouter=require('./routes/todos.router');
 
 const app=express();
+app.use(express.json());
 
-
-
-
-
-
-app.get("/todos", async (req,res)=>{
-    try{
-    let todos= await TodoModel.find();
-    res.send(todos);
-
-}catch(err){
-    res.status(500).send(err.message);
-
-}
-})
-
+app.use("/todos",todosRouter);
 
 
 app.listen(4500,async ()=>{
